@@ -1,0 +1,28 @@
+{
+  "name": "poc_material_ui",
+  "version": "1.0.0",
+  "description": "POC to demonstrate controlling a MUI mini-drawer that only opens the drawer and doesn't more the app bar",
+  "keywords": [
+    "material-ui",
+    "react"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "classnames": "2.2.5",
+    "material-ui": "1.0.0-beta.32",
+    "material-ui-icons": "1.0.0-beta.17",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-responsive": "4.0.4",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
